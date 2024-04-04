@@ -1,1 +1,3 @@
 # opera-gx-promo
+
+Fixed.
